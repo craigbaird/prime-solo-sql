@@ -1,5 +1,5 @@
 # SQL In Class Assignment
-An in class assignment practicing SQL queries
+An in class assignment, practicing SQL queries
 
 ## Getting Started
 
